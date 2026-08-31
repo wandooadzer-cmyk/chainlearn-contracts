@@ -1,5 +1,8 @@
 /target
 test_snapshots/
+temp_auto_push.bat
 .mimo/
 *.mimo
 mimo/
+.gitignore
+branch_structure.json
