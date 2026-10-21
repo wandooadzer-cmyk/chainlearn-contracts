@@ -1,7 +1,10 @@
 /target
 test_snapshots/
 .mimo/
+temp_auto_push.bat
 *.mimo
 mimo/
 /coverage/
 deployments-*.prev.json
+.gitignore
+branch_structure.json
